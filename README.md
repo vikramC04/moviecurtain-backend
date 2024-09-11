@@ -1,6 +1,6 @@
 # MovieCurtain Backend
 
-This repository contains the backend code for **MovieCurtain**, a web application that allows users to search for movies and save them to their personal watchlist. The backend is built using Node.js, Express, and MongoDB to manage server-side logic, routing, and persistent data storage.
+This repository contains the backend code for **MovieCurtain**, a web application that allows users to search for movies and save them to their personal watchlist. The backend is built using Node.js, Express, and MongoDB to manage server-side logic, routing, and persistent data storage. 
 
 ## Features
 
@@ -16,5 +16,6 @@ This repository contains the backend code for **MovieCurtain**, a web applicatio
 - [Express.js](https://expressjs.com/): Web framework for Node.js.
 - [MongoDB](https://www.mongodb.com/): NoSQL database used for storing user data and watchlist items.
 - [Mongoose](https://mongoosejs.com/): ODM (Object Data Modeling) library for MongoDB and Node.js.
+
 
 
